@@ -51,7 +51,7 @@ nav a {
 
 .section-title {
     text-align: center;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 /* CARDS */
@@ -106,29 +106,37 @@ footer {
 <section id="about" class="container">
     <h2 class="section-title">🌍 About the Atmosphere</h2>
     <p style="text-align:center;">
-        The atmosphere protects life on Earth, regulates temperature, and drives weather systems.
+        The Earth's atmosphere is a vital layer of gases that surrounds our planet and supports all life. 
+        It regulates temperature by trapping heat, protects living organisms from harmful solar radiation, 
+        and drives weather systems through energy transfer and air circulation. Without the atmosphere, 
+        life in the UAE and across the world would not be possible.
     </p>
 </section>
 
 <!-- WEATHER -->
 <section id="weather" class="container">
     <h2 class="section-title">🌦️ UAE Weather Conditions</h2>
+    <p style="text-align:center;">
+        The United Arab Emirates experiences extreme and unique weather conditions due to its desert climate, 
+        geographic location, and proximity to the Arabian Gulf.
+    </p>
+
     <div class="cards">
         <div class="card">
             <h3>🔥 Extreme Heat</h3>
-            <p>Temperatures can exceed 50°C during summer.</p>
+            <p>Summer temperatures in the UAE can exceed 50°C, creating dangerous heat conditions that affect health, infrastructure, and daily life.</p>
         </div>
         <div class="card">
             <h3>🌫️ Humidity</h3>
-            <p>High humidity in coastal areas due to the Arabian Gulf.</p>
+            <p>Coastal areas experience high humidity levels due to moisture from the Arabian Gulf, making temperatures feel even hotter.</p>
         </div>
         <div class="card">
             <h3>🌪️ Dust Storms</h3>
-            <p>Shamal winds cause reduced visibility and air quality.</p>
+            <p>Dust storms caused by strong winds (such as shamal winds) reduce visibility and impact air quality and transportation.</p>
         </div>
         <div class="card">
             <h3>🌁 Fog</h3>
-            <p>Common in winter mornings due to moisture and cooling.</p>
+            <p>Fog events are common during winter mornings when cooler temperatures combine with moisture, affecting road safety.</p>
         </div>
     </div>
 </section>
@@ -137,32 +145,50 @@ footer {
 <section id="climate" class="container">
     <h2 class="section-title">📊 Climate Change in UAE</h2>
     <p style="text-align:center;">
-        Scientific data shows rising temperatures and more frequent heatwaves in the UAE.
-        This confirms long-term climate change trends affecting the region.
+        Scientific evidence shows that the UAE is experiencing long-term climate change. Average temperatures 
+        have been steadily increasing over recent decades, and heatwaves are becoming more frequent and intense. 
+        Urban areas are also affected by the “urban heat island effect,” where buildings and roads absorb and 
+        retain heat, making cities significantly warmer than surrounding areas. These trends confirm that global 
+        climate change is directly impacting the UAE environment.
     </p>
 </section>
 
 <!-- SOLUTIONS -->
 <section id="solutions" class="container">
     <h2 class="section-title">💡 Solutions & Adaptation</h2>
+    <p style="text-align:center;">
+        To reduce the impact of extreme weather and climate change, the UAE is developing innovative solutions 
+        to protect communities and improve environmental sustainability.
+    </p>
+
     <div class="cards">
         <div class="card">
             <h3>⚠️ Heat Alerts</h3>
-            <p>Warning systems to protect students and communities.</p>
+            <p>Heat warning systems help schools and communities prepare for extreme temperatures and prevent heat-related illnesses.</p>
         </div>
         <div class="card">
             <h3>🌳 Urban Greening</h3>
-            <p>Planting trees to reduce temperatures naturally.</p>
+            <p>Planting trees and increasing green spaces helps reduce temperatures naturally and improves air quality.</p>
         </div>
         <div class="card">
             <h3>🏠 Cool Buildings</h3>
-            <p>Reflective materials to reduce indoor heat.</p>
+            <p>Using reflective materials and modern building designs reduces heat absorption and keeps indoor environments cooler.</p>
         </div>
         <div class="card">
             <h3>🚰 Hydration Stations</h3>
-            <p>Ensuring water access during extreme heat events.</p>
+            <p>Providing access to clean drinking water in public spaces helps people stay safe during extreme heat conditions.</p>
         </div>
     </div>
+</section>
+
+<!-- WHY IT MATTERS -->
+<section class="container">
+    <h2 class="section-title">📌 Why This Matters</h2>
+    <p style="text-align:center;">
+        Understanding weather and climate is essential for protecting lives, improving city planning, 
+        and preparing for future environmental challenges. By combining scientific knowledge with 
+        modern technology, the UAE can build a safer and more sustainable future for its people.
+    </p>
 </section>
 
 <!-- FOOTER -->
